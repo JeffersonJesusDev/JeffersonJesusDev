@@ -1,4 +1,5 @@
 ## Olá, sou o Jeff! Desenvoledor Back-End ☕
+#### Sou estudante universitário em Análise e Desenvolvimento de Sistemas.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-de-jesus-da-silva-b52a141b4/)
 
 ![Jeff J Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffersonjesusdev&show_icons=true&theme=dracula)
@@ -12,7 +13,7 @@
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <div/><br/>
 
-Sou estudante universitário em Análise e Desenvolvimento de Sistemas.
+
 
 ## Meu Setup Dev
 
