@@ -1,4 +1,4 @@
-## Olá, sou o Jeff! Desenvoledor Back-End ☕
+## Olá, sou o Jeff! Desenvolvedor Back-End ☕
 #### Sou estudante universitário em Análise e Desenvolvimento de Sistemas.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-de-jesus-da-silva-b52a141b4/)
 
